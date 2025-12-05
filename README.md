@@ -5,8 +5,8 @@
   
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
-   <img src="https://img.shields.io/badge/Total%20Projects-2-blue" alt="Total Projects"/>
-    <img src="https://img.shields.io/badge/Categories-2-green" alt="Categories"/>
+   <img src="https://img.shields.io/badge/Total%20Projects-16-blue" alt="Total Projects"/>
+    <img src="https://img.shields.io/badge/Categories-11-green" alt="Categories"/>
   </p>
   
   <p>
