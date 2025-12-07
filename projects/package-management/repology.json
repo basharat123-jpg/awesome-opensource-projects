@@ -1,0 +1,12 @@
+{
+  "name": "Repology",
+  "url": "https://github.com/repology/repology-rs",
+  "description": "Package version tracking service that aggregates package information from 300+ repositories",
+  "tech_stack": ["Rust", "Tokio", "Axum", "SQLx"],
+  "status": "Active",
+  "maintainer": "@repology",
+  "languages": ["Rust"],
+  "links": {
+    "GitHub": "https://github.com/repology/repology-rs"
+  }
+}

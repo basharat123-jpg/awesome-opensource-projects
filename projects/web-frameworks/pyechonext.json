@@ -1,0 +1,13 @@
+{
+  "name": "pyEchoNext",
+  "url": "https://github.com/alexeev-prog/pyEchoNext",
+  "description": "Lightweight, fast and scalable web framework for Python",
+  "tech_stack": ["Python"],
+  "status": "Active",
+  "maintainer": "@alexeev-prog",
+  "languages": ["Python"],
+  "links": {
+    "Website": "https://alexeev-prog.github.io/pyEchoNext/",
+    "GitHub": "https://github.com/alexeev-prog/pyEchoNext"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deletor",
+  "url": "https://github.com/pashkov256/deletor",
+  "description": "Interactive TUI and CLI tool for efficient file management",
+  "tech_stack": ["Go"],
+  "status": "Active",
+  "contribution": "Open for contributors",
+  "maintainer": "@pashkov256",
+  "languages": ["Go"],
+  "image": "https://raw.githubusercontent.com/pashkov256/media/refs/heads/main/deletor/deletorv150.gif"
+}

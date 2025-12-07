@@ -1,0 +1,12 @@
+{
+  "name": "Shadowstep",
+  "url": "https://github.com/molokov-klim/Appium-Python-Client-Shadowstep",
+  "description": "Modern Python framework for Android test automation",
+  "tech_stack": ["Python", "Appium"],
+  "status": "Active",
+  "maintainer": "@molokov-klim",
+  "languages": ["Python"],
+  "links": {
+    "GitHub": "https://github.com/molokov-klim/Appium-Python-Client-Shadowstep"
+  }
+}

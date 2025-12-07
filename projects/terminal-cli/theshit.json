@@ -1,0 +1,15 @@
+{
+  "name": "theshit",
+  "url": "https://github.com/AsfhtgkDavid/theshit",
+  "description": "Command-line utility that automatically detects and fixes common shell command mistakes",
+  "tech_stack": ["Shell", "Python"],
+  "status": "Active",
+  "maintainer": "@AsfhtgkDavid",
+  "languages": ["Shell", "Python"],
+  "links": {
+    "GitHub": "https://github.com/AsfhtgkDavid/theshit"
+  },
+  "stats": {
+    "coverage": "https://codecov.io/gh/AsfhtgkDavid/theshit"
+  }
+}

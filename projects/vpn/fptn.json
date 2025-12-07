@@ -1,0 +1,14 @@
+{
+  "name": "FPTN VPN",
+  "url": "https://github.com/batchar2/fptn",
+  "description": "Censorship circumvention technology with traffic obfuscation and SNI spoofing",
+  "tech_stack": ["C++", "Python", "Bash", "Java"],
+  "status": "Active",
+  "maintainer": "@batchar2",
+  "languages": ["C++", "Python", "Bash", "Java"],
+  "links": {
+    "Core": "https://github.com/batchar2/fptn",
+    "Android Client": "https://github.com/batchar2/FptnClient-Android",
+    "iOS Client (WIP)": "https://github.com/batchar2/FptnClient-iOS"
+  }
+}

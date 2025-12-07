@@ -1,0 +1,12 @@
+{
+  "name": "Condo",
+  "url": "https://github.com/open-condo-software/condo",
+  "description": "Open Source Management SaaS with ticket tracking and resident management",
+  "tech_stack": ["TypeScript", "Node.js", "React"],
+  "status": "Active",
+  "maintainer": "@open-condo-software",
+  "languages": ["TypeScript", "JavaScript"],
+  "links": {
+    "GitHub": "https://github.com/open-condo-software/condo"
+  }
+}

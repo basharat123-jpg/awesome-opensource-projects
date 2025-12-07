@@ -1,0 +1,12 @@
+{
+  "name": "Evo",
+  "url": "https://github.com/chyVacheck/evo",
+  "description": "Modern TypeScript framework for creating structured, type-safe HTTP services",
+  "tech_stack": ["TypeScript", "Node.js"],
+  "status": "Active",
+  "maintainer": "@chyVacheck",
+  "languages": ["TypeScript"],
+  "links": {
+    "GitHub": "https://github.com/chyVacheck/evo"
+  }
+}

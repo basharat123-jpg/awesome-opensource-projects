@@ -1,0 +1,17 @@
+{
+  "name": "CMS Витраж",
+  "url": "http://gitlab.com/digitalprodotia/cms",
+  "description": "Multimodal (multi-headed) CMS combining Wordpress, Tilda, Airtable, and bot builders functionality",
+  "tech_stack": ["PostgreSQL", "Node.js", "TypeScript", "GraphQL", "React"],
+  "status": "Active",
+  "contribution": "Open for contributors",
+  "maintainer": "@dilesoft",
+  "languages": ["TypeScript", "JavaScript"],
+  "links": {
+    "Website": "http://gitlab.com/digitalprotopia/cms",
+    "Community Chat": "https://t.me/digitalprotopia"
+  },
+  "stats": {
+    "stars": "OpenSourceDevsHub/awesome-opensource-projects"
+  }
+}

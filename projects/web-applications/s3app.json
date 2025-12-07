@@ -1,0 +1,17 @@
+{
+  "name": "S3app",
+  "url": "http://gitlab.com/digitalprotopia/cms",
+  "description": "System for managing flat organizations using Sociocracy 3.0 principles",
+  "tech_stack": ["PostgreSQL", "Node.js", "TypeScript", "GraphQL", "React"],
+  "status": "Active",
+  "contribution": "Open for contributors",
+  "maintainer": "@dilesoft",
+  "languages": ["TypeScript", "JavaScript"],
+  "links": {
+    "Website": "http://gitlab.com/digitalprotopia/cms",
+    "Community Chat": "https://t.me/digitalprotopia"
+  },
+  "stats": {
+    "stars": "OpenSourceDevsHub/awesome-opensource-projects"
+  }
+}

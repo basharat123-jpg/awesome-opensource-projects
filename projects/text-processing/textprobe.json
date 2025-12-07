@@ -1,0 +1,15 @@
+{
+  "name": "TextProbe",
+  "url": "https://github.com/MakarMS/text-probe",
+  "description": "PHP library for text analysis and pattern matching",
+  "tech_stack": ["PHP"],
+  "status": "Active",
+  "maintainer": "@MakarMS",
+  "languages": ["PHP"],
+  "links": {
+    "GitHub": "https://github.com/MakarMS/text-probe"
+  },
+  "stats": {
+    "coverage": "https://codecov.io/gh/MakarMS/text-probe"
+  }
+}

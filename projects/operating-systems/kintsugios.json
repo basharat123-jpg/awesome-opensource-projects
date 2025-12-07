@@ -1,0 +1,12 @@
+{
+  "name": "KintsugiOS",
+  "url": "https://github.com/alexeev-prog/KintsugiOS",
+  "description": "Minimalist x86 operating system written in (N)ASM and C",
+  "tech_stack": ["Assembly", "C"],
+  "status": "Educational",
+  "maintainer": "@alexeev-prog",
+  "languages": ["Assembly", "C"],
+  "links": {
+    "GitHub": "https://github.com/alexeev-prog/KintsugiOS"
+  }
+}

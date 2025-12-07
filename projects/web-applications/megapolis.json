@@ -1,0 +1,13 @@
+{
+  "name": "Мегаполос",
+  "url": "https://gitlab.com/megapolos/",
+  "description": "No-code DevOps system for managing IT infrastructure of any complexity through a graphical interface",
+  "tech_stack": ["React", "GraphQL", "TypeScript", "Node.js", "PostgreSQL", "Ansible", "Docker"],
+  "status": "Active",
+  "maintainer": "@dilesoft",
+  "languages": ["TypeScript", "JavaScript"],
+  "links": {
+    "GitLab": "https://gitlab.com/megapolos/",
+    "Community Chat": "https://t.me/digitalprotopia"
+  }
+}

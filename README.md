@@ -5,14 +5,14 @@
   
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
-   <img src="https://img.shields.io/badge/Total%20Projects-16-blue" alt="Total Projects"/>
-    <img src="https://img.shields.io/badge/Categories-11-green" alt="Categories"/>
+    <img src="https://img.shields.io/badge/Total%20Projects-16-blue" alt="Total Projects"/>
+    <img src="https://img.shields.io/badge/Categories-10-green" alt="Categories"/>
   </p>
   
   <p>
     <a href="https://t.me/OpenSource_Chat"><img src="https://img.shields.io/badge/chat-on%20Telegram-blue.svg" alt="Telegram Channel"></a>
-    <a href="https://github.com/OpenSourceDevsHub/awesome-opensource-projects/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenSourceDevsHub/awesome-opensource-projects?style="></a>
-    <img src="https://img.shields.io/badge/Last%20Updated-December%206,%202025-orange" alt="Last Updated"/>
+    <a href="https://github.com/OpenSourceDevsHub/awesome-opensource-projects/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenSourceDevsHub/awesome-opensource-projects?style=flat-square"></a>
+    <img src="https://img.shields.io/badge/Last%20Updated-December 07, 2025-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -20,369 +20,610 @@
 
 Welcome to the official collection of projects from the [Опенсорсеры community](https://t.me/OpenSource_Chat)! This repository showcases the best open source projects created by our community members.
 
-
 ## 📌 Contents
+- [Terminal & CLI](#terminal-cli)
 - [Web Applications](#web-applications)
-- [Terminal & CLI](#terminal--cli)
-- [Web Frameworks & Tools](#web-frameworks--tools)
-- [Testing & Automation](#testing--automation)
-- [Operating Systems & Low-Level](#operating-systems--low-level)
-- [DevOps & System Administration](#devops--system-administration)
-- [Text Processing & Analysis](#text-processing--analysis)
-- [VPN & Networking](#vpn--networking)
-- [Management](#property-management)
+- [Web Frameworks & Tools](#web-frameworks)
+- [Devops](#devops)
+- [Operating Systems](#operating-systems)
+- [Management](#management)
 - [Package Management](#package-management)
-- [Development Tools](#development-tools)
-- [Mobile Applications](#mobile-applications)
-- [Games](#games)
-- [How to Contribute](#-how-to-contribute)
-- [Add Your Project](#-add-your-project)
-- [Community](#-join-our-community)
+- [Testing](#testing)
+- [Text Processing & Analysis](#text-processing)
+- [Vpn](#vpn)
 
 ---
 
-## 🌐 Web Applications
+## Project Categories
 
-### [CMS Витраж](http://gitlab.com/digitalprodotia/cms) - Multimodal (multi-headed) CMS combining Wordpress, Tilda, Airtable, and bot builders functionality
+<a id="terminal-cli"></a>
 
-<details>
-<summary>Show details</summary>
+<details open>
 
-- **Tech Stack**: PostgreSQL, Node.js, TypeScript, GraphQL, React
-- **Status**: Active
-- **Contribution**: Open for contributors
-- **Maintainer**: [@dilesoft](https://t.me/dilesoft)
-- **Languages**: <img src='./icons/typescript-16.png' alt='TypeScript' height='16'/> TypeScript, <img src='./icons/javascript-16.png' alt='JavaScript' height='16'/> JavaScript
-- **Links**: [Website](http://gitlab.com/digitalprotopia/cms) | [Community Chat](https://t.me/digitalprotopia)
+<summary><span style="font-size: 1.4em; font-weight: 600;">💻 Terminal & CLI</span></summary>
+
+
+- **[deletor](https://github.com/pashkov256/deletor)** - Interactive TUI and CLI tool for efficient file management
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Go
+
+
+  **Status**: Active
+
+
+  **Contribution**: Open for contributors
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/pashkov256/deletor?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/pashkov256/deletor?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/pashkov256/deletor?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/pashkov256/deletor?style=flat-square&cacheSeconds=3600)
+
+
+  <img src='https://raw.githubusercontent.com/pashkov256/media/refs/heads/main/deletor/deletorv150.gif' width='600' loading='lazy' alt='deletor Demo' style='margin-top: 10px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'/>
+
+
+  </p>
+
+  </details>
+
+
+- **[httptap](https://github.com/ozeranskii/httptap)** - CLI for HTTP request analysis and performance measurement
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Python
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/ozeranskii/httptap)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/ozeranskii/httptap?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/ozeranskii/httptap?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/ozeranskii/httptap?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/ozeranskii/httptap?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[theshit](https://github.com/AsfhtgkDavid/theshit)** - Command-line utility that automatically detects and fixes common shell command mistakes
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Shell, Python
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/AsfhtgkDavid/theshit)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/asfhtgkdavid/theshit?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/asfhtgkdavid/theshit?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/asfhtgkdavid/theshit?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/asfhtgkdavid/theshit?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
-### [S3app](http://gitlab.com/digitalprotopia/cms) - System for managing flat organizations using Sociocracy 3.0 principles
+<hr />
 
-<details>
-<summary>Show details</summary>
+<a id="web-applications"></a>
 
-- **Tech Stack**: PostgreSQL, Node.js, TypeScript, GraphQL, React
-- **Status**: Active
-- **Contribution**: Open for contributors
-- **Maintainer**: [@dilesoft](https://t.me/dilesoft)
-- **Languages**: <img src='./icons/typescript-16.png' alt='TypeScript' height='16'/> TypeScript, <img src='./icons/javascript-16.png' alt='JavaScript' height='16'/> JavaScript
-- **Links**: [Website](http://gitlab.com/digitalprotopia/cms) | [Community Chat](https://t.me/digitalprotopia)
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">🌐 Web Applications</span></summary>
+
+
+- **[CMS Витраж](http://gitlab.com/digitalprodotia/cms)** - Multimodal (multi-headed) CMS combining Wordpress, Tilda, Airtable, and bot builders functionality
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: PostgreSQL, Node.js, TypeScript, GraphQL, React
+
+
+  **Status**: Active
+
+
+  **Contribution**: Open for contributors
+
+
+  **Links**: [Website](http://gitlab.com/digitalprotopia/cms) | [Community Chat](https://t.me/digitalprotopia)
+
+
+  </p>
+
+  </details>
+
+
+- **[S3app](http://gitlab.com/digitalprotopia/cms)** - System for managing flat organizations using Sociocracy 3.0 principles
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: PostgreSQL, Node.js, TypeScript, GraphQL, React
+
+
+  **Status**: Active
+
+
+  **Contribution**: Open for contributors
+
+
+  **Links**: [Website](http://gitlab.com/digitalprotopia/cms) | [Community Chat](https://t.me/digitalprotopia)
+
+
+  </p>
+
+  </details>
+
+
+- **[Мегаполос](https://gitlab.com/megapolos/)** - No-code DevOps system for managing IT infrastructure of any complexity through a graphical interface
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: React, GraphQL, TypeScript, Node.js, PostgreSQL, Ansible, Docker
+
+
+  **Status**: Active
+
+
+  **Links**: [GitLab](https://gitlab.com/megapolos/) | [Community Chat](https://t.me/digitalprotopia)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
+<hr />
 
-### [Мегаполос](https://gitlab.com/megapolos/) - No-code DevOps system
+<a id="web-frameworks"></a>
 
-<details>
-<summary>Show details</summary>
+<details open>
 
-- **Description**: A system for managing IT infrastructure of any complexity through a graphical interface, eliminating the need for DevOps engineers for routine tasks.
-- **Tech Stack**: React, GraphQL, TypeScript, Node.js, PostgreSQL, Ansible, Docker
-- **Status**: Active
-- **Links**: [GitLab](https://gitlab.com/megapolos/) | [Community Chat](https://t.me/digitalprotopia)
+<summary><span style="font-size: 1.4em; font-weight: 600;">🛠️ Web Frameworks & Tools</span></summary>
+
+
+- **[Evo](https://github.com/chyVacheck/evo)** - Modern TypeScript framework for creating structured, type-safe HTTP services
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: TypeScript, Node.js
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/chyVacheck/evo)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/chyvacheck/evo?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/chyvacheck/evo?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/chyvacheck/evo?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/chyvacheck/evo?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[pyEchoNext](https://github.com/alexeev-prog/pyEchoNext)** - Lightweight, fast and scalable web framework for Python
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Python
+
+
+  **Status**: Active
+
+
+  **Links**: [Website](https://alexeev-prog.github.io/pyEchoNext/) | [GitHub](https://github.com/alexeev-prog/pyEchoNext)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/alexeev-prog/pyechonext?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/alexeev-prog/pyechonext?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/alexeev-prog/pyechonext?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/alexeev-prog/pyechonext?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
-## 🛠️ Web Frameworks & Tools
+<hr />
 
-### [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext) - Lightweight, fast and scalable web framework for Python
+<a id="devops"></a>
 
-<details>
-<summary>Show details</summary>
+<details open>
 
-- **Description**: A high-performance web framework for building scalable Python web applications and APIs with Flask-like simplicity and FastAPI-inspired performance.
-- **Tech Stack**: Python
-- **Status**: Active
-- **Links**: [Website](https://alexeev-prog.github.io/pyEchoNext/) | [GitHub](https://github.com/alexeev-prog/pyEchoNext)
+<summary><span style="font-size: 1.4em; font-weight: 600;">🔄 DevOps & System Administration</span></summary>
+
+
+- **[Quanta Cleaner](https://github.com/iUnreallx/Quanta-Cleaner)** - Fast, smart Windows disk cleaner
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: .NET
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/iUnreallx/Quanta-Cleaner)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/iunreallx/quanta-cleaner?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/iunreallx/quanta-cleaner?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/iunreallx/quanta-cleaner?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/iunreallx/quanta-cleaner?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
-### [Evo](https://github.com/chyVacheck/evo) - Modern TypeScript framework for creating structured, type-safe HTTP services
+<hr />
 
-<details>
-<summary>Show details</summary>
+<a id="operating-systems"></a>
 
-- **Description**: A TypeScript framework for building type-safe HTTP services without magic or external dependencies.
-- **Tech Stack**: TypeScript, Node.js
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/chyVacheck/evo)
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">📁 Operating Systems</span></summary>
+
+
+- **[KFS (Kernel From Scratch)](https://github.com/alkuzin/kfs)** - Simple monolithic Unix-like OS for x86-32
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: C++, GAS, CMake
+
+
+  **Status**: Archived
+
+
+  **Links**: [GitHub](https://github.com/alkuzin/kfs)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/alkuzin/kfs?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/alkuzin/kfs?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/alkuzin/kfs?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/alkuzin/kfs?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[KintsugiOS](https://github.com/alexeev-prog/KintsugiOS)** - Minimalist x86 operating system written in (N)ASM and C
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Assembly, C
+
+
+  **Status**: Educational
+
+
+  **Links**: [GitHub](https://github.com/alexeev-prog/KintsugiOS)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/alexeev-prog/kintsugios?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/alexeev-prog/kintsugios?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/alexeev-prog/kintsugios?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/alexeev-prog/kintsugios?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
+<hr />
+
+<a id="management"></a>
+
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">🏢 Management</span></summary>
 
 
-### [S3app](http://gitlab.com/digitalprodotia/cms) - System for managing flat organizations using Sociocracy 3.0 principles
+- **[Condo](https://github.com/open-condo-software/condo)** - Open Source Management SaaS with ticket tracking and resident management
 
-<details>
-<summary>Show details</summary>
 
-- **Tech Stack**: PostgreSQL, Node.js, TypeScript, GraphQL, React
-- **Status**: Active
-- **Contribution**: Open for contributors
-- **Maintainer**: [@dilesoft](https://t.me/dilesoft)
-- **Languages**: <img src='./icons/typescript-16.png' alt='TypeScript' height='16'/> TypeScript, <img src='./icons/javascript-16.png' alt='JavaScript' height='16'/> JavaScript
-- **Links**: [Website](http://gitlab.com/digitalprotopia/cms) | [Community Chat](https://t.me/digitalprotopia)
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: TypeScript, Node.js, React
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/open-condo-software/condo)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/open-condo-software/condo?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/open-condo-software/condo?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/open-condo-software/condo?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/open-condo-software/condo?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
 
 </details>
 
-## 💻 Terminal & CLI
+<hr />
 
-### [deletor](https://github.com/pashkov256/deletor) - Interactive TUI and CLI tool for efficient file management
+<a id="package-management"></a>
 
-<details>
-<summary>Show details</summary>
+<details open>
 
-- **Tech Stack**: Go
-- **Status**: Active
-- **Contribution**: Open for contributors
-- **Maintainer**: [@pashkov256](https://github.com/pashkov256)
-- **Languages**: <img src='./icons/golang-16.png' alt='Go' height='16'/> Go
-- **Links**: [Latest Release](https://github.com/pashkov256/deletor/releases/latest) | [Code Coverage](https://codecov.io/gh/pashkov256/deletor) | [GitHub Stars](https://github.com/pashkov256/deletor/stargazers) | [MIT License](https://github.com/pashkov256/deletor/blob/main/LICENSE)
+<summary><span style="font-size: 1.4em; font-weight: 600;">📦 Package Management</span></summary>
 
-<img src='https://raw.githubusercontent.com/pashkov256/media/refs/heads/main/deletor/deletorv150.gif' width='600' loading='lazy' alt='Deletor Demo' style='margin-top: 10px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'/>
+
+- **[Repology](https://github.com/repology/repology-rs)** - Package version tracking service that aggregates package information from 300+ repositories
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Rust, Tokio, Axum, SQLx
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/repology/repology-rs)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/repology/repology-rs?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/repology/repology-rs?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/repology/repology-rs?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/repology/repology-rs?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
-### [theshit](https://github.com/AsfhtgkDavid/theshit) - Command-line utility that automatically detects and fixes common shell command mistakes
+<hr />
 
-<details>
-<summary>Show details</summary>
+<a id="testing"></a>
 
-- **Description**: A smart CLI tool that helps correct common shell command errors with a focus on speed and usability.
-- **Tech Stack**: Shell, Python
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/AsfhtgkDavid/theshit) 
-  ![Code Coverage](https://codecov.io/gh/AsfhtgkDavid/theshit/graph/badge.svg?token=016D8DZWLG)
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">🧪 Testing & Automation</span></summary>
+
+
+- **[Shadowstep](https://github.com/molokov-klim/Appium-Python-Client-Shadowstep)** - Modern Python framework for Android test automation
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Python, Appium
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/molokov-klim/Appium-Python-Client-Shadowstep)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/molokov-klim/appium-python-client-shadowstep?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/molokov-klim/appium-python-client-shadowstep?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/molokov-klim/appium-python-client-shadowstep?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/molokov-klim/appium-python-client-shadowstep?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
-### [httptap](https://github.com/ozeranskii/httptap) - CLI for HTTP request analysis and performance measurement
+<hr />
 
-<details>
-<summary>Show details</summary>
+<a id="text-processing"></a>
 
-- **Description**: Analyzes HTTP requests through every phase (DNS, TCP, TLS, etc.) and provides detailed timing metrics.
-- **Tech Stack**: Python
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/ozeranskii/httptap)
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">📝 Text Processing & Analysis</span></summary>
+
+
+- **[TextProbe](https://github.com/MakarMS/text-probe)** - PHP library for text analysis and pattern matching
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: PHP
+
+
+  **Status**: Active
+
+
+  **Links**: [GitHub](https://github.com/MakarMS/text-probe)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/makarms/text-probe?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/makarms/text-probe?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/makarms/text-probe?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/makarms/text-probe?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
+<hr />
+
+<a id="vpn"></a>
+
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">📁 Vpn</span></summary>
 
 
-## 🧪 Testing & Automation
+- **[FPTN VPN](https://github.com/batchar2/fptn)** - Censorship circumvention technology with traffic obfuscation and SNI spoofing
 
-### [Shadowstep](https://github.com/molokov-klim/Appium-Python-Client-Shadowstep) - Modern Python framework for Android test automation
 
-<details>
-<summary>Show details</summary>
+  <details>
 
-- **Description**: A framework for writing clean, maintainable Android UI tests with minimal boilerplate.
-- **Tech Stack**: Python, Appium
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/molokov-klim/Appium-Python-Client-Shadowstep)
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: C++, Python, Bash, Java
+
+
+  **Status**: Active
+
+
+  **Links**: [Core](https://github.com/batchar2/fptn) | [Android Client](https://github.com/batchar2/FptnClient-Android) | [iOS Client (WIP)](https://github.com/batchar2/FptnClient-iOS)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/batchar2/fptn?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/batchar2/fptn?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/batchar2/fptn?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/batchar2/fptn?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
 </details>
 
-## 🖥️ Operating Systems & Low-Level
+<hr />
 
-### [KintsugiOS](https://github.com/alexeev-prog/KintsugiOS) - Minimalist x86 operating system written in (N)ASM and C
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: An educational OS project focusing on understanding operating system principles, inspired by the Japanese art of Kintsugi.
-- **Tech Stack**: Assembly, C
-- **Status**: Educational
-- **Links**: [GitHub](https://github.com/alexeev-prog/KintsugiOS)
-</details>
-
-### [KFS (Kernel From Scratch)](https://github.com/alkuzin/kfs) - Simple monolithic Unix-like OS for x86-32
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: A minimal operating system kernel developed as an educational project.
-- **Tech Stack**: C++, GAS, CMake
-- **Status**: Archived
-- **Links**: [GitHub](https://github.com/alkuzin/kfs)
-</details>
-
-## 🛠️ DevOps & System Administration
-
-### [Мегаполос](https://gitlab.com/megapolos/) - No-code DevOps system
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: A system for managing IT infrastructure of any complexity through a graphical interface, eliminating the need for DevOps engineers for routine tasks.
-- **Tech Stack**: React, GraphQL, TypeScript, Node.js, PostgreSQL, Ansible, Docker
-- **Status**: Active
-- **Links**: [GitLab](https://gitlab.com/megapolos/) | [Community Chat](https://t.me/digitalprotopia)
-</details>
-
-### [Quanta Cleaner](https://github.com/iUnreallx/Quanta-Cleaner) - Fast, smart Windows disk cleaner
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: A lightweight utility that safely removes unnecessary files to keep your system running smoothly.
-- **Tech Stack**: .NET
-- **Status**: Active
-- **Languages**: <img src='./icons/csharp-16.png' alt='C#' height='16'/> C#
-- **Links**: [GitHub](https://github.com/iUnreallx/Quanta-Cleaner)
-</details>
-
-## 📝 Text Processing & Analysis
-
-### [TextProbe](https://github.com/MakarMS/text-probe) - PHP library for text analysis and pattern matching
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: A simple and extensible library for efficient text analysis using customizable rules.
-- **Tech Stack**: PHP
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/MakarMS/text-probe)
-  ![Code Coverage](https://codecov.io/gh/MakarMS/text-probe/graph/badge.svg?token=HFDSEGHGH4)
-</details>
-
-## 🔒 VPN & Networking
-
-### [FPTN VPN](https://github.com/batchar2/fptn) - Censorship circumvention technology
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: A VPN solution designed to bypass internet censorship with features like traffic obfuscation, SNI spoofing, and distributed server architecture.
-- **Tech Stack**: C++, Python, Bash, Java
-- **Status**: Active
-- **Links**: 
-  - [Core](https://github.com/batchar2/fptn)
-  - [Android Client](https://github.com/batchar2/FptnClient-Android)
-  - [iOS Client (WIP)](https://github.com/batchar2/FptnClient-iOS)
-</details>
-
-## 🏢 Management
-
-### [Condo](https://github.com/open-condo-software/condo) - Open Source Management SaaS
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: Comprehensive Management solution with ticket tracking, resident management, payment processing, and an extension system.
-- **Tech Stack**: TypeScript, Node.js, React
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/open-condo-software/condo)
-</details>
-
-## 📦 Package Management
-
-### [Repology](https://github.com/repology/repology-rs) - Package version tracking service
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: Aggregates package information from 300+ repositories, helping track versions across different distributions.
-- **Tech Stack**: Rust, Tokio, Axum, SQLx
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/repology/repology-rs)
-</details>
-
-## 🛠️ Development Tools
-
-### [devsyringe](https://github.com/alchemmist/devsyringe) - Data injection utility
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: Injects dynamic data into files using YAML configuration without template engines.
-- **Tech Stack**: Go
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/alchemmist/devsyringe) | [Article](https://t.me/alchemmist_blog/85)
-</details>
-
-
-## 📱 Mobile Applications
-
-### [2Maps](https://github.com/mikhail-angelov/2maps-and) - Offline maps and navigation for Android
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: Advanced mapping and navigation app with offline capabilities and custom map sources.
-- **Tech Stack**: Kotlin, MapLibre
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/mikhail-angelov/2maps-and)
-</details>
-
-## 🎮 Games
-
-### [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid game
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: A unique game combining racing and RPG elements in a post-apocalyptic world.
-- **Tech Stack**: C++
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/KranX/Vangers)
-</details>
-
-### [VistaEngine](https://github.com/KD-lab-Open-Source/VistaEngine) - Game engine for "Perimeter 2: New Earth"
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: Game engine powering the strategy game "Perimeter 2: New Earth"
-- **Tech Stack**: C++
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/KD-lab-Open-Source/VistaEngine)
-</details>
-
-### [16Launcher](https://github.com/launcherdev11) - Minecraft launcher with mod management
-
-<details>
-<summary>Show details</summary>
-
-- **Description**: Feature-rich launcher with mod management, modpack creation, and game configuration tools.
-- **Tech Stack**: Python
-- **Status**: Active
-- **Links**: [GitHub](https://github.com/launcherdev11/16Launcher)
-</details>
 
 ## 🤝 How to Contribute
 
 We welcome contributions from everyone! Here's how you can get involved:
 
-1. **For Beginners**
-   - Explore projects labeled `good first issue`
-   - Ask questions in our [Telegram chat](https://t.me/OpenSource_Chat)
-   - Start with small documentation improvements
-
-2. **For Project Owners**
-   - Add your project to our collection (see below)
-   - Submit well-documented issues for contributors
-   - Participate in code reviews and discussions
-
-3. **For Experienced Developers**
-   - Mentor newcomers
-   - Help improve project documentation
-   - Contribute to existing projects
+1. **Add Your Project**: See the [Add Your Project](#-add-your-project) section below.
+2. **Improve Documentation**: Help improve project documentation.
+3. **Report Issues**: Found a bug or have a suggestion? Open an issue!
+4. **Spread the Word**: Star the repository and share it with others.
 
 ## 📝 Add Your Project
 
 Want to add your project to our collection? Follow these steps:
 
 1. Fork this repository
-2. Add your project to the appropriate category in the README
+2. Create a new JSON file in the appropriate category directory under `projects/`
 3. Follow the project template below
-4. Submit a pull request
+4. Submit a Pull Request
 
 ### Project Template
-```markdown
-### [Project Name](https://github.com/yourusername/project)
-- **Description**: Brief description of your project (1-2 sentences)
-- **Tech Stack**: Main technologies used
-- **Status**: Active/In Development/On Hold
-- **Difficulty**: Beginner/Intermediate/Advanced
-- **Contribution**: [Open for contributors/Help wanted/Maintainers needed]
-- **Maintainer**: [Your Telegram/GitHub]
+
+```json
+{
+  "name": "Project Name",
+  "url": "https://github.com/username/project",
+  "description": "Brief description of your project",
+  "tech_stack": ["Technology 1", "Technology 2"],
+  "status": "Active/In Development/On Hold",
+  "contribution": "Open for contributors/Looking for maintainers",
+  "maintainer": "@githubusername",
+  "languages": ["Language 1", "Language 2"],
+  "links": {
+    "GitHub": "https://github.com/username/project",
+    "Documentation": "https://project-docs.example.com",
+    "Community Chat": "https://t.me/yourcommunity"
+  },
+  "stats": {
+    "stars": "username/project",
+    "license": "username/project",
+    "last_commit": "username/project",
+    "coverage": "https://codecov.io/gh/username/project"
+  },
+  "image": "https://example.com/screenshot.png"
+}
 ```
 
-## 📜 License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-

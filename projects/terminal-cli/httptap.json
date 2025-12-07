@@ -1,0 +1,12 @@
+{
+  "name": "httptap",
+  "url": "https://github.com/ozeranskii/httptap",
+  "description": "CLI for HTTP request analysis and performance measurement",
+  "tech_stack": ["Python"],
+  "status": "Active",
+  "maintainer": "@ozeranskii",
+  "languages": ["Python"],
+  "links": {
+    "GitHub": "https://github.com/ozeranskii/httptap"
+  }
+}

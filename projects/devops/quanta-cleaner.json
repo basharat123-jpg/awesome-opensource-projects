@@ -1,0 +1,12 @@
+{
+  "name": "Quanta Cleaner",
+  "url": "https://github.com/iUnreallx/Quanta-Cleaner",
+  "description": "Fast, smart Windows disk cleaner",
+  "tech_stack": [".NET"],
+  "status": "Active",
+  "maintainer": "@iUnreallx",
+  "languages": ["C#"],
+  "links": {
+    "GitHub": "https://github.com/iUnreallx/Quanta-Cleaner"
+  }
+}
