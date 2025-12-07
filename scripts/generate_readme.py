@@ -60,7 +60,7 @@ def generate_category_md(category, projects):
     # Wrap the whole category in a <details open> so it can be collapsed
     # Use inline <span> with larger font inside <summary>, so button и текст на одной строке
     md = [
-        f'<a id="{category}"></a>\n',
+        f'<h3 id="{category}"></h3>\n',
         f'<details open>\n',
         f'<summary><span style="font-size: 1.4em; font-weight: 600;">{emoji} {name}</span></summary>\n\n'
     ]

@@ -96,7 +96,6 @@ Where `<category>` is one of the existing categories, for example:
 
 6. Open a Pull Request and briefly describe your project and chosen category.
 
----
 
 ## Join the Open Source Community
 

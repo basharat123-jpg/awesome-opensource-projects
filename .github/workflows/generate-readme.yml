@@ -10,6 +10,9 @@ on:
       - 'templates/README.template.md'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-readme:
     runs-on: ubuntu-latest

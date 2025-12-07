@@ -36,7 +36,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 ## Project Categories
 
-<a id="terminal-cli"></a>
+<h3 id="terminal-cli"></h3>
 
 <details open>
 
@@ -131,7 +131,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="web-applications"></a>
+<h3 id="web-applications"></h3>
 
 <details open>
 
@@ -220,7 +220,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="web-frameworks"></a>
+<h3 id="web-frameworks"></h3>
 
 <details open>
 
@@ -285,7 +285,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="devops"></a>
+<h3 id="devops"></h3>
 
 <details open>
 
@@ -323,7 +323,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="operating-systems"></a>
+<h3 id="operating-systems"></h3>
 
 <details open>
 
@@ -388,7 +388,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="management"></a>
+<h3 id="management"></h3>
 
 <details open>
 
@@ -426,7 +426,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="package-management"></a>
+<h3 id="package-management"></h3>
 
 <details open>
 
@@ -464,7 +464,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="testing"></a>
+<h3 id="testing"></h3>
 
 <details open>
 
@@ -502,7 +502,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="text-processing"></a>
+<h3 id="text-processing"></h3>
 
 <details open>
 
@@ -540,7 +540,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<a id="vpn"></a>
+<h3 id="vpn"></h3>
 
 <details open>
 
