@@ -1,0 +1,8 @@
+{
+  "name": "Samogonki",
+  "url": "https://github.com/KD-lab-Open-Source/Samogonki",
+  "description": "Open-source release of the arcade racing game Moonshine Runners / Spanking Runners (Samogonki).",
+  "tech_stack": ["C++"],
+  "status": "Active",
+  "category": "games"
+}

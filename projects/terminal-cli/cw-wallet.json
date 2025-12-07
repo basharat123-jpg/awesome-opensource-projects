@@ -1,0 +1,8 @@
+{
+  "name": "CW Wallet",
+  "url": "https://github.com/mikhail-angelov/cw",
+  "description": "Command-line wallet for interacting with USDT (Tether) and ETH on the Ethereum network.",
+  "tech_stack": ["Node.js"],
+  "status": "Active",
+  "category": "terminal-cli"
+}

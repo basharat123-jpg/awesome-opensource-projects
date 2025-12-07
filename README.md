@@ -4,8 +4,8 @@
   
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
-    <img src="https://img.shields.io/badge/Total%20Projects-16-blue" alt="Total Projects"/>
-    <img src="https://img.shields.io/badge/Categories-10-green" alt="Categories"/>
+    <img src="https://img.shields.io/badge/Total%20Projects-22-blue" alt="Total Projects"/>
+    <img src="https://img.shields.io/badge/Categories-11-green" alt="Categories"/>
   </p>
   
   <p>
@@ -30,6 +30,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 - [Testing](#testing)
 - [Text Processing & Analysis](#text-processing)
 - [Vpn](#vpn)
+- [Games](#games)
 
 ---
 
@@ -45,6 +46,30 @@ Check contributing <a href="CONTRIBUTING.md"> Guide</a>
 <details open>
 
 <summary><span style="font-size: 1.4em; font-weight: 600;">💻 Terminal & CLI</span></summary>
+
+
+- **[CW Wallet](https://github.com/mikhail-angelov/cw)** - Command-line wallet for interacting with USDT (Tether) and ETH on the Ethereum network.
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Node.js
+
+
+  **Status**: Active
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/mikhail-angelov/cw?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/mikhail-angelov/cw?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/mikhail-angelov/cw?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/mikhail-angelov/cw?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
 
 
 - **[deletor](https://github.com/pashkov256/deletor)** - Interactive TUI and CLI tool for efficient file management
@@ -278,6 +303,54 @@ Check contributing <a href="CONTRIBUTING.md"> Guide</a>
 
 
   ![GitHub stars](https://img.shields.io/github/stars/alexeev-prog/pyechonext?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/alexeev-prog/pyechonext?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/alexeev-prog/pyechonext?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/alexeev-prog/pyechonext?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[TelegramBotsApi](https://github.com/kuvardin/TelegramBotsApi)** - PHP SDK for building Telegram bots using the Telegram Bot API.
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: PHP
+
+
+  **Status**: Active
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/kuvardin/telegrambotsapi?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/kuvardin/telegrambotsapi?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/kuvardin/telegrambotsapi?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/kuvardin/telegrambotsapi?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[vServer](https://github.com/Falknat/vServer)** - Functional web server written in Go for building fast and composable HTTP services.
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: Go
+
+
+  **Status**: Active
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/falknat/vserver?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/falknat/vserver?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/falknat/vserver?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/falknat/vserver?style=flat-square&cacheSeconds=3600)
 
 
   </p>
@@ -571,6 +644,89 @@ Check contributing <a href="CONTRIBUTING.md"> Guide</a>
 
 
   ![GitHub stars](https://img.shields.io/github/stars/batchar2/fptn?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/batchar2/fptn?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/batchar2/fptn?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/batchar2/fptn?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+</details>
+
+<hr />
+
+<h2 id="games"></h2>
+
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">🎮 Games</span></summary>
+
+
+- **[Perimeter](https://github.com/KD-lab-Open-Source/Perimeter)** - Real-time strategy game featuring terraforming, morphing units, energy networks and surreal worlds.
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: C++
+
+
+  **Status**: Active
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/kd-lab-open-source/perimeter?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/kd-lab-open-source/perimeter?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-lab-open-source/perimeter?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/kd-lab-open-source/perimeter?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[Samogonki](https://github.com/KD-lab-Open-Source/Samogonki)** - Open-source release of the arcade racing game Moonshine Runners / Spanking Runners (Samogonki).
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: C++
+
+
+  **Status**: Active
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/kd-lab-open-source/samogonki?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/kd-lab-open-source/samogonki?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/kd-lab-open-source/samogonki?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/kd-lab-open-source/samogonki?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+- **[Vangers](https://github.com/KranX/Vangers)** - Classic hybrid of racing and role-playing game set in a surreal open world.
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: C++
+
+
+  **Status**: Active
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/kranx/vangers?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/kranx/vangers?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/kranx/vangers?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/kranx/vangers?style=flat-square&cacheSeconds=3600)
 
 
   </p>

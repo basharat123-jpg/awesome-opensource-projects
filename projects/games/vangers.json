@@ -1,0 +1,8 @@
+{
+  "name": "Vangers",
+  "url": "https://github.com/KranX/Vangers",
+  "description": "Classic hybrid of racing and role-playing game set in a surreal open world.",
+  "tech_stack": ["C++"],
+  "status": "Active",
+  "category": "games"
+}

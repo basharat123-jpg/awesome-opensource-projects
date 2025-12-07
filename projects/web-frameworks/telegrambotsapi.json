@@ -1,0 +1,8 @@
+{
+  "name": "TelegramBotsApi",
+  "url": "https://github.com/kuvardin/TelegramBotsApi",
+  "description": "PHP SDK for building Telegram bots using the Telegram Bot API.",
+  "tech_stack": ["PHP"],
+  "status": "Active",
+  "category": "web-frameworks"
+}

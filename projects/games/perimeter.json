@@ -1,0 +1,8 @@
+{
+  "name": "Perimeter",
+  "url": "https://github.com/KD-lab-Open-Source/Perimeter",
+  "description": "Real-time strategy game featuring terraforming, morphing units, energy networks and surreal worlds.",
+  "tech_stack": ["C++"],
+  "status": "Active",
+  "category": "games"
+}

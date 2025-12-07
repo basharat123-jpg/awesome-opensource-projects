@@ -1,0 +1,8 @@
+{
+  "name": "vServer",
+  "url": "https://github.com/Falknat/vServer",
+  "description": "Functional web server written in Go for building fast and composable HTTP services.",
+  "tech_stack": ["Go"],
+  "status": "Active",
+  "category": "web-frameworks"
+}
